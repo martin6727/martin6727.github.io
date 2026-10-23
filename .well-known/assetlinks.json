@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.drivemap.app",
+      "sha256_cert_fingerprints": ["BA:4E:78:93:2B:BD:FF:41:45:AA:A3:AA:4D:D8:80:0C:B6:5F:54:63:C0:0F:2C:40:40:CB:4A:DE:EE:5A:D3:91"]
+    }
+  }
+]

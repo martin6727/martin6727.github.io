@@ -1,0 +1,1 @@
+Website for [DriveMap](https://github.com/martin6727/drivemap): convoy invite links (`/convoy/#CODE`) and the Android App Links file (`/.well-known/assetlinks.json`) that lets those links open the app directly.
